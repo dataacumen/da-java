@@ -4,14 +4,14 @@ public class Hello {
     public static void main(String[] args) {
         int value1 = 1;
         int value2 = 2;
-        System.out.println("Hello World! Result: " + (value1 + value2));
+        System.out.println("Hello Franklin! Result: " + (value1 + value2));
 
         int marker = 1024;
         double percentage = marker * 0.46f;
         System.out.println("Percentage: " + percentage);
 
         char unicodeTest = '\u00BB';
-        System.out.println("Unicode u00BB: " + unicodeTest);
+        System.out.println("Unicode Character u00BB = " + unicodeTest);
 
         double x = 1.05;
         double y = 2.55;
